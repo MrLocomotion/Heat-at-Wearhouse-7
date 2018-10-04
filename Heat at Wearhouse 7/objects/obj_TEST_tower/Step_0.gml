@@ -11,3 +11,4 @@ if(instance_exists(obj_TEST_enemy)){
 		temp.direction = direction;
 	}
 }
+//hello world
