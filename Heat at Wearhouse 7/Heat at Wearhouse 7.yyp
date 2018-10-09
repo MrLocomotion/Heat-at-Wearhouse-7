@@ -223,6 +223,14 @@
             }
         },
         {
+            "Key": "3da8cdb8-b6e4-421d-aba1-158feaa988f6",
+            "Value": {
+                "id": "eb9c5857-e8d3-4eb9-afd1-9236ca4b9e38",
+                "resourcePath": "sprites\\spr_assassain\\spr_assassain.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "477d52f2-4556-4ef6-a53f-136af85314cb",
             "Value": {
                 "id": "c791c022-0e92-4632-aba3-d141dd7abae0",
@@ -279,6 +287,14 @@
             }
         },
         {
+            "Key": "6bfb8de6-a7c7-4019-bc55-8f29341d6103",
+            "Value": {
+                "id": "9b7c41fc-5a1b-4514-8693-601f08169398",
+                "resourcePath": "sprites\\spr_bullet\\spr_bullet.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6ec05f2d-f0ca-46cb-8810-b364827280d0",
             "Value": {
                 "id": "9a28d30d-51b8-4c3c-b96c-691bb37e1c5d",
@@ -307,6 +323,14 @@
             "Value": {
                 "id": "2ae203e1-edab-4f73-9892-a971f15f27f8",
                 "resourcePath": "sprites\\spr_room2\\spr_room2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8ff6ced6-6726-48c7-b6e5-0fc89586059e",
+            "Value": {
+                "id": "470cc7fa-fc1b-4757-8f14-b76b186206f4",
+                "resourcePath": "sprites\\spr_merc_down\\spr_merc_down.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -372,6 +396,14 @@
                 "id": "b0c62721-fa4b-4d3a-af56-36e38812a004",
                 "resourcePath": "objects\\obj_base_enemy\\obj_base_enemy.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "9dd3d153-beba-4d1b-b8fe-4607afe175f6",
+            "Value": {
+                "id": "902cf837-5148-43ca-ba6a-37014b0bbdd6",
+                "resourcePath": "sprites\\spr_TopDown_Sniper\\spr_TopDown_Sniper.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -495,6 +527,30 @@
             }
         },
         {
+            "Key": "d958f4d6-2703-445b-aea5-ba242290cd9e",
+            "Value": {
+                "id": "1ef281df-00e5-4b48-9861-5730fe4cf525",
+                "resourcePath": "sprites\\spr_c4\\spr_c4.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "db698e42-e9ea-4e65-b643-7fd7a28e3aba",
+            "Value": {
+                "id": "c2645bb1-8717-4715-ab6f-e8300a356817",
+                "resourcePath": "sprites\\spr_merc_right\\spr_merc_right.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "dd17eeeb-0024-410d-a0f6-2b119f832b78",
+            "Value": {
+                "id": "855345ff-1698-42bf-b5bf-32aacc7fee96",
+                "resourcePath": "sprites\\spr_firewall\\spr_firewall.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "dd77934d-6197-4a1e-a6eb-19b6173e87fb",
             "Value": {
                 "id": "35a42606-b534-4cc7-a6bd-8effb683be78",
@@ -527,11 +583,27 @@
             }
         },
         {
+            "Key": "eddb1900-a8ce-4019-bb74-ed9c9e337c62",
+            "Value": {
+                "id": "6b3ca639-702e-4953-ba20-674c9983a016",
+                "resourcePath": "sprites\\spr_DrugLord\\spr_DrugLord.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
                 "id": "f27a6042-ad36-45ce-b54e-1459c2ae672f",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f4236c2c-c7b6-4ba8-878d-e440650bd1d7",
+            "Value": {
+                "id": "7315bc62-e8ee-4f0e-9307-a2f2c45a45c1",
+                "resourcePath": "sprites\\spr_gravity\\spr_gravity.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
