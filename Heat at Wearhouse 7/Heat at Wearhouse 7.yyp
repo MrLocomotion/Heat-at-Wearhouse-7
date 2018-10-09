@@ -119,6 +119,14 @@
             }
         },
         {
+            "Key": "165d1fec-7bea-45c8-acc4-a7b1297af7f9",
+            "Value": {
+                "id": "c49795ad-ff05-41d5-8985-39c43bb16b41",
+                "resourcePath": "sprites\\spr_Sniper\\spr_Sniper.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1b6ffb32-66c4-496b-be83-8e512c2591ec",
             "Value": {
                 "id": "046751b6-8bc8-43e2-81ea-67774d74d01c",
