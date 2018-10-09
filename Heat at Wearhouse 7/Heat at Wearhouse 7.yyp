@@ -287,6 +287,14 @@
             }
         },
         {
+            "Key": "5ab0cb29-be50-45d0-ba59-70acac32c5a8",
+            "Value": {
+                "id": "cb23fa9a-54e4-4f99-9d73-5bc4d2809f3d",
+                "resourcePath": "sprites\\sprite_Barricade_Half_Dead\\sprite_Barricade_Half_Dead.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5b5896af-64df-497e-a950-3792b8b052fb",
             "Value": {
                 "id": "54be5c88-8291-462d-8e58-8d35a87bad27",
@@ -300,6 +308,14 @@
                 "id": "444d664d-21e2-4bb9-a2eb-91f8099763d1",
                 "resourcePath": "objects\\obj_room5\\obj_room5.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "5f2e99d6-6b18-47b0-ad8b-318b90304c59",
+            "Value": {
+                "id": "404eb387-0406-4008-9268-0773d14fcfe5",
+                "resourcePath": "sprites\\sprite_Doggos_ANI_lvl2\\sprite_Doggos_ANI_lvl2.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -519,6 +535,14 @@
             }
         },
         {
+            "Key": "a98cb355-93c2-4163-a2c6-458cf70c5596",
+            "Value": {
+                "id": "7a6a99e3-65ed-4a55-8b86-95bf04c1c9d5",
+                "resourcePath": "sprites\\sprite_Doggos_ANI_lvl3\\sprite_Doggos_ANI_lvl3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "aa748bcb-409b-4d2b-98c2-88e27c99481a",
             "Value": {
                 "id": "b667dd50-c972-43d9-92ab-db126e77cbaa",
@@ -619,6 +643,22 @@
             "Value": {
                 "id": "08234f2e-fad1-4917-b2c8-0c64dee99b89",
                 "resourcePath": "sprites\\sprite_PunkUno\\sprite_PunkUno.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d1c5ab00-2a05-4f3e-818b-e8e1ea68d573",
+            "Value": {
+                "id": "11cdc676-ee61-432f-bb0b-65df3d473872",
+                "resourcePath": "sprites\\sprite_Barricade_Remains\\sprite_Barricade_Remains.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d1f0ac58-e82c-46fc-9bbb-f32d4d6e1543",
+            "Value": {
+                "id": "33edbd27-dbf0-4ca8-a301-c27f5915ce61",
+                "resourcePath": "sprites\\sprite_Doggos_ANI_lvl1\\sprite_Doggos_ANI_lvl1.yy",
                 "resourceType": "GMSprite"
             }
         },
