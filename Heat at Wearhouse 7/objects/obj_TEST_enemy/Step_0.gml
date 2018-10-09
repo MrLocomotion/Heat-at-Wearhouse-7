@@ -6,5 +6,5 @@ event_inherited();
 if instance_exists(obj_goal){
    var inst;
    inst = instance_nearest(x, y, obj_goal);
-   mp_potential_step_object(inst.x, inst.y, 3, obj_base_wall);
+   mp_potential_step_object(inst.x, inst.y, 1, obj_base_wall);
 }
