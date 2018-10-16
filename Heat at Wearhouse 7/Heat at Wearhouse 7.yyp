@@ -303,6 +303,14 @@
             }
         },
         {
+            "Key": "50b2a837-b740-434d-bd69-0f8e4d26b34c",
+            "Value": {
+                "id": "c21c5603-0ca7-4766-a296-e5387d6156b2",
+                "resourcePath": "sprites\\sprite_BarricadeANI\\sprite_BarricadeANI.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5ab0cb29-be50-45d0-ba59-70acac32c5a8",
             "Value": {
                 "id": "cb23fa9a-54e4-4f99-9d73-5bc4d2809f3d",
