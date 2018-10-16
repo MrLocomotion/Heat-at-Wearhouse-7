@@ -457,6 +457,25 @@
             }
         },
         {
+            "Key": "36afa0a5-edd9-4a3b-8799-8fe4e4210858",
+            "Value": {
+                "id": "ca2646f8-9136-4fad-a38a-79cd755b0994",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "rooms\/LeonRoom2\/LeonRoom2.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "38b6083e-779e-414d-93ca-1a861512334a",
             "Value": {
                 "id": "a72a6604-c236-4df0-84e8-ade19445854f",
