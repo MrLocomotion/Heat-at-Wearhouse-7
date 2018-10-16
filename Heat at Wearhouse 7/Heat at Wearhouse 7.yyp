@@ -255,6 +255,14 @@
             }
         },
         {
+            "Key": "398ceb26-cec2-45ae-b127-ac42263b1f7f",
+            "Value": {
+                "id": "ff81c129-bd4c-4c2e-8403-e1bfbe3ba2c3",
+                "resourcePath": "sprites\\sprite_PunkDosANI\\sprite_PunkDosANI.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3b0a042e-15e2-4b76-9a87-0e37e2c993cb",
             "Value": {
                 "id": "94f8a76c-a438-4350-852c-b92984673b7a",
