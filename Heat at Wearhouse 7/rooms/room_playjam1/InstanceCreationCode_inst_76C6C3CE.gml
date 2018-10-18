@@ -1,1 +1,1 @@
-spawn_id = 2;
+goal_id = 2;
