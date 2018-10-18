@@ -215,6 +215,14 @@
             }
         },
         {
+            "Key": "230764cb-9587-4885-8a27-cf01ed2aaa20",
+            "Value": {
+                "id": "203db829-98bc-410d-badc-d2ea5cbfbebe",
+                "resourcePath": "sprites\\spr_gravity_active\\spr_gravity_active.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "23c6f768-d880-47b5-a3dc-b6a45d1b0565",
             "Value": {
                 "id": "71e2d916-22c6-455e-bd11-55c8cf22af19",
@@ -343,6 +351,14 @@
             }
         },
         {
+            "Key": "3e123bb3-4cb8-46d4-adae-3e523c616917",
+            "Value": {
+                "id": "fcb77453-33da-4644-b87e-8b76c3aac240",
+                "resourcePath": "sprites\\spr_firewall_active\\spr_firewall_active.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "477d52f2-4556-4ef6-a53f-136af85314cb",
             "Value": {
                 "id": "c791c022-0e92-4632-aba3-d141dd7abae0",
@@ -463,6 +479,14 @@
             }
         },
         {
+            "Key": "70f41c72-ea03-452b-9e85-3287438a826d",
+            "Value": {
+                "id": "0329cf70-ed3d-4974-bc7b-d93f1ef469a6",
+                "resourcePath": "sprites\\spr_firewall\\spr_firewall.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "71c39f3a-edd5-4ed0-9285-4fc5f354108a",
             "Value": {
                 "id": "37d82a86-ad7a-48c7-9469-0f654e35cf5c",
@@ -483,6 +507,14 @@
             "Value": {
                 "id": "458600d9-0325-43a6-b3e4-0b8e7d7514fd",
                 "resourcePath": "sprites\\spr_LittleShit\\spr_LittleShit.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "739c8e79-d9cf-4e71-b035-7717167d6b1c",
+            "Value": {
+                "id": "ef0be03d-a83e-4152-a21e-8acf0f1ffab3",
+                "resourcePath": "sprites\\spr_krash\\spr_krash.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -719,6 +751,14 @@
             }
         },
         {
+            "Key": "bc78a121-ea97-4638-89fc-f61cb99e10d4",
+            "Value": {
+                "id": "f5811d93-31f4-4105-b16f-7cf04fd61ea9",
+                "resourcePath": "sprites\\spr_assasin_right\\spr_assasin_right.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "befa0c4f-72c5-4857-90d1-00707bd995ab",
             "Value": {
                 "id": "8a6e6021-4e51-41ac-a40e-ca763af479cf",
@@ -823,6 +863,14 @@
             }
         },
         {
+            "Key": "d60a511f-94a2-4629-87eb-25f7419f1bc6",
+            "Value": {
+                "id": "4c4be3ee-5031-4eb4-804c-635de16450b2",
+                "resourcePath": "sprites\\spr_c4\\spr_c4.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d7ac043b-19d4-4deb-9808-36ee3aad28a7",
             "Value": {
                 "id": "0486548a-099c-4d1b-84f8-12a9dbdd3634",
@@ -834,7 +882,7 @@
             "Key": "d958f4d6-2703-445b-aea5-ba242290cd9e",
             "Value": {
                 "id": "1ef281df-00e5-4b48-9861-5730fe4cf525",
-                "resourcePath": "sprites\/spr_c4\/spr_c4.yy",
+                "resourcePath": "sprites\\spr_c4_button\\spr_c4_button.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -850,7 +898,7 @@
             "Key": "dd17eeeb-0024-410d-a0f6-2b119f832b78",
             "Value": {
                 "id": "855345ff-1698-42bf-b5bf-32aacc7fee96",
-                "resourcePath": "sprites\/spr_firewall\/spr_firewall.yy",
+                "resourcePath": "sprites\\spr_firewall1\\spr_firewall1.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -914,7 +962,7 @@
             "Key": "f4236c2c-c7b6-4ba8-878d-e440650bd1d7",
             "Value": {
                 "id": "7315bc62-e8ee-4f0e-9307-a2f2c45a45c1",
-                "resourcePath": "sprites\/spr_gravity\/spr_gravity.yy",
+                "resourcePath": "sprites\\spr_gravity_button\\spr_gravity_button.yy",
                 "resourceType": "GMSprite"
             }
         },
