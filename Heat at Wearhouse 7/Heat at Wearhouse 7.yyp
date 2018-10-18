@@ -314,7 +314,7 @@
             "Key": "38b6083e-779e-414d-93ca-1a861512334a",
             "Value": {
                 "id": "a72a6604-c236-4df0-84e8-ade19445854f",
-                "resourcePath": "objects\/obj_Barricade\/obj_Barricade.yy",
+                "resourcePath": "objects\\obj_Barricade_click\\obj_Barricade_click.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -711,6 +711,14 @@
             }
         },
         {
+            "Key": "a29d0e29-623a-4423-aa0d-898a68d1ac7d",
+            "Value": {
+                "id": "bc9e984e-ccfb-4eac-a9b4-43626f830036",
+                "resourcePath": "sprites\\spr_Barricade_charging\\spr_Barricade_charging.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a3fde0fb-d847-4f6f-a884-4afa7537a9fa",
             "Value": {
                 "id": "0ac3a356-efc7-4237-8c67-a1d249b9c5ad",
@@ -780,6 +788,14 @@
                 "id": "20f9807a-c533-457d-b732-8101e15443c2",
                 "resourcePath": "objects\/obj_room4\/obj_room4.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b054d905-5c3b-443e-9fd3-d2ffed5c3bb0",
+            "Value": {
+                "id": "302b42dc-f48f-4a3f-acb7-7dd1d7899e0b",
+                "resourcePath": "sprites\\spr_Barricade_ready\\spr_Barricade_ready.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -996,6 +1012,14 @@
                 "id": "6b3ca639-702e-4953-ba20-674c9983a016",
                 "resourcePath": "sprites\/spr_DrugLord\/spr_DrugLord.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f24a62be-9c1a-4d62-a8bc-15db3c2a948f",
+            "Value": {
+                "id": "45065de3-f2e9-44e0-8cf7-cfa9947afa66",
+                "resourcePath": "objects\\obj_Barricade\\obj_Barricade.yy",
+                "resourceType": "GMObject"
             }
         },
         {
