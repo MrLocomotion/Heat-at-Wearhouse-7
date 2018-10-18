@@ -1,1 +1,1 @@
-goal_id = 1;
+goal_id = 0;

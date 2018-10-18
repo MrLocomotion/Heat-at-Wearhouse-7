@@ -535,6 +535,14 @@
             }
         },
         {
+            "Key": "70fe3f03-6102-4091-9b67-7b334facaa07",
+            "Value": {
+                "id": "e0346577-62c9-49c5-a8a9-45a0c97b6ab3",
+                "resourcePath": "views\\70fe3f03-6102-4091-9b67-7b334facaa07.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "71c39f3a-edd5-4ed0-9285-4fc5f354108a",
             "Value": {
                 "id": "37d82a86-ad7a-48c7-9469-0f654e35cf5c",
@@ -563,14 +571,6 @@
             "Value": {
                 "id": "ef0be03d-a83e-4152-a21e-8acf0f1ffab3",
                 "resourcePath": "sprites\\spr_krash\\spr_krash.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "76e19756-1b2b-4b91-816b-293db1518d95",
-            "Value": {
-                "id": "61a71b55-5a09-4ca4-a204-d6ad631cd2df",
-                "resourcePath": "sprites\/spr_Wall\/spr_Wall.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -609,7 +609,7 @@
         {
             "Key": "8d37c5bc-757c-4d4a-97c4-69f9869298a1",
             "Value": {
-                "id": "31cf76ca-f3fb-493d-a55e-d38af5e4285f",
+                "id": "f381abea-d373-4b09-a5bf-ac943c1fddda",
                 "resourcePath": "rooms\\room_playjam1\\room_playjam1.yy",
                 "resourceType": "GMRoom"
             }
@@ -660,6 +660,14 @@
                 "id": "faa5f921-eba6-4c6c-aaa3-b45e51bb2f1a",
                 "resourcePath": "rooms\/room0\/room0.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "96c2cc80-bd7e-43ff-a4d4-1a4ac245b1cc",
+            "Value": {
+                "id": "96c1aa7c-3846-4abd-aa07-1acc402110f2",
+                "resourcePath": "sprites\\spr_Wall\\spr_Wall.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -820,6 +828,14 @@
                 "id": "dbfcc88f-4029-49cd-bd9b-2e64db0195da",
                 "resourcePath": "sprites\/spr_room2_tile\/spr_room2_tile.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b740e739-2019-499c-9c1a-a633431777d2",
+            "Value": {
+                "id": "d153ec78-bfec-47f2-8931-23e1faa0c44c",
+                "resourcePath": "objects\\obj_UIStart\\obj_UIStart.yy",
+                "resourceType": "GMObject"
             }
         },
         {
