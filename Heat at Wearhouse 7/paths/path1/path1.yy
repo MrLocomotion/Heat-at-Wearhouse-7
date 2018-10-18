@@ -8,11 +8,19 @@
     "kind": 0,
     "points": [
         {
-            "id": "2ad8e072-1852-4635-ab23-7c30f76bfa24",
+            "id": "b568dbfd-68ec-4a0e-8469-8ef12c4dd9e6",
             "modelName": "GMPathPoint",
             "mvc": "1.0",
-            "x": 2208,
-            "y": 640,
+            "x": 160,
+            "y": 256,
+            "speed": 100
+        },
+        {
+            "id": "0164981d-768a-4083-8313-3454c20e2314",
+            "modelName": "GMPathPoint",
+            "mvc": "1.0",
+            "x": 928,
+            "y": 256,
             "speed": 100
         }
     ],
