@@ -183,6 +183,14 @@
             }
         },
         {
+            "Key": "1aa73bf5-d11c-4080-a5ac-8ff430bb6a37",
+            "Value": {
+                "id": "aa02250b-7134-4ac9-bf80-f83454eb45a9",
+                "resourcePath": "sprites\\spr_floor11\\spr_floor11.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1b6ffb32-66c4-496b-be83-8e512c2591ec",
             "Value": {
                 "id": "046751b6-8bc8-43e2-81ea-67774d74d01c",
@@ -771,6 +779,14 @@
             "Value": {
                 "id": "7a6a99e3-65ed-4a55-8b86-95bf04c1c9d5",
                 "resourcePath": "sprites\\spri_Doggos_ANI_lvl3\\spri_Doggos_ANI_lvl3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "aa19d28c-da07-49b4-bd81-0f4980eb1521",
+            "Value": {
+                "id": "4569c5e9-136b-47d0-a983-8d901b99f6ea",
+                "resourcePath": "sprites\\spr_floor21\\spr_floor21.yy",
                 "resourceType": "GMSprite"
             }
         },
