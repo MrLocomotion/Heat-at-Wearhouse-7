@@ -6,13 +6,13 @@ if view_visible[4]{
 	view_set_visible(0, true);
 }
 
-if view_visible[2]{
-	view_set_visible(2,false);
+if view_visible[3]{
+	view_set_visible(3,false);
 	view_set_visible(0, true);
 }
 
-if view_visible[3]{
-	view_set_visible(3,false);
+if view_visible[2]{
+	view_set_visible(2,false);
 	view_set_visible(0, true);
 }
 
