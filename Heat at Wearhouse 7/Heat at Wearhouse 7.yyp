@@ -247,6 +247,22 @@
             }
         },
         {
+            "Key": "260e8564-2bef-4baa-9274-a81f535ccc37",
+            "Value": {
+                "id": "e5cad428-96fa-4fb7-8a68-82b2d40fd35e",
+                "resourcePath": "objects\\obj_base_projectile\\obj_base_projectile.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "2e84fe22-fdce-43d9-ab6d-c733d2765b69",
+            "Value": {
+                "id": "38a91de0-2f92-4605-bef1-6917da93ebb2",
+                "resourcePath": "objects\\obj_spawner\\obj_spawner.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "30f75085-762e-4b59-a722-78963ef8b836",
             "Value": {
                 "id": "9a49883c-6807-4e8c-8820-20634f194027",
@@ -298,7 +314,7 @@
             "Key": "38b6083e-779e-414d-93ca-1a861512334a",
             "Value": {
                 "id": "a72a6604-c236-4df0-84e8-ade19445854f",
-                "resourcePath": "objects\/obj_Barricade\/obj_Barricade.yy",
+                "resourcePath": "objects\\obj_Barricade_click\\obj_Barricade_click.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -372,6 +388,14 @@
                 "id": "c791c022-0e92-4632-aba3-d141dd7abae0",
                 "resourcePath": "tilesets\/room1\/room1.yy",
                 "resourceType": "GMTileSet"
+            }
+        },
+        {
+            "Key": "498038e4-48c4-4d4e-b429-fa4689890bbb",
+            "Value": {
+                "id": "8cc9307f-8efb-42b8-92ff-2160d100882c",
+                "resourcePath": "objects\\obj_projectile_laser\\obj_projectile_laser.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -687,6 +711,14 @@
             }
         },
         {
+            "Key": "a29d0e29-623a-4423-aa0d-898a68d1ac7d",
+            "Value": {
+                "id": "bc9e984e-ccfb-4eac-a9b4-43626f830036",
+                "resourcePath": "sprites\\spr_Barricade_charging\\spr_Barricade_charging.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a3fde0fb-d847-4f6f-a884-4afa7537a9fa",
             "Value": {
                 "id": "0ac3a356-efc7-4237-8c67-a1d249b9c5ad",
@@ -759,6 +791,14 @@
             }
         },
         {
+            "Key": "b054d905-5c3b-443e-9fd3-d2ffed5c3bb0",
+            "Value": {
+                "id": "302b42dc-f48f-4a3f-acb7-7dd1d7899e0b",
+                "resourcePath": "sprites\\spr_Barricade_ready\\spr_Barricade_ready.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b650e8ae-eb4d-45eb-8606-4d066505f6c3",
             "Value": {
                 "id": "dbfcc88f-4029-49cd-bd9b-2e64db0195da",
@@ -796,14 +836,6 @@
                 "id": "59181f32-9c8b-4b2f-81a0-a72e00c5402e",
                 "resourcePath": "views\\c0178f48-e213-44ca-8811-740d8efc75c4.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "c0a0bffc-77cc-42c0-8ef0-8dac3b6abe28",
-            "Value": {
-                "id": "76c03647-a2b2-4655-9d8e-bd2dcdd86f3f",
-                "resourcePath": "objects\\obj_bullet\\obj_bullet.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -911,6 +943,14 @@
             }
         },
         {
+            "Key": "db210a21-566b-4a51-ba21-e165b47bc513",
+            "Value": {
+                "id": "517a42b1-24ca-4ea4-819a-5f5dc9e10e27",
+                "resourcePath": "objects\\obj_projectile_bullet\\obj_projectile_bullet.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "db698e42-e9ea-4e65-b643-7fd7a28e3aba",
             "Value": {
                 "id": "c2645bb1-8717-4715-ab6f-e8300a356817",
@@ -972,6 +1012,14 @@
                 "id": "6b3ca639-702e-4953-ba20-674c9983a016",
                 "resourcePath": "sprites\/spr_DrugLord\/spr_DrugLord.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f24a62be-9c1a-4d62-a8bc-15db3c2a948f",
+            "Value": {
+                "id": "45065de3-f2e9-44e0-8cf7-cfa9947afa66",
+                "resourcePath": "objects\\obj_Barricade\\obj_Barricade.yy",
+                "resourceType": "GMObject"
             }
         },
         {
