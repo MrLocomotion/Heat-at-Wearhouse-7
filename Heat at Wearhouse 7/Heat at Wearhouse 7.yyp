@@ -719,6 +719,14 @@
             }
         },
         {
+            "Key": "9e8416e0-ea97-4a32-a04b-9873a64b12e1",
+            "Value": {
+                "id": "8046a16d-ec76-47f1-a814-28b64ad3037c",
+                "resourcePath": "sprites\\sprite_MouseANI\\sprite_MouseANI.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "9f2b4d47-fd35-4f19-b853-a686dec75974",
             "Value": {
                 "id": "a7cfb498-f108-40b1-ac68-00e56c6cc55a",
