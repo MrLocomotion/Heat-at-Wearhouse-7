@@ -615,6 +615,14 @@
             }
         },
         {
+            "Key": "84fb72fb-3c46-4c65-98a8-746f968acbe6",
+            "Value": {
+                "id": "7b980f5d-a3e7-4607-9fb0-d1d72c7406d2",
+                "resourcePath": "sprites\\sp_PunkDos_SideANI\\sp_PunkDos_SideANI.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8d37c5bc-757c-4d4a-97c4-69f9869298a1",
             "Value": {
                 "id": "f381abea-d373-4b09-a5bf-ac943c1fddda",
