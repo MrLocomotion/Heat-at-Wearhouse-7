@@ -479,6 +479,14 @@
             }
         },
         {
+            "Key": "69768c51-c639-4e89-88b7-dbc7cec95557",
+            "Value": {
+                "id": "06d091bb-b240-4a95-b386-93d94e30608e",
+                "resourcePath": "sprites\\spr_PunkUno_BackANI\\spr_PunkUno_BackANI.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6a575fea-5406-41e5-9010-ace2062bc644",
             "Value": {
                 "id": "09191783-73dd-41d0-8737-c133bad47ac9",
