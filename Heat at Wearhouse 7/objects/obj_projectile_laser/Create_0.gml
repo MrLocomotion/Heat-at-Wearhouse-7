@@ -4,3 +4,4 @@
 // Inherit the parent event
 event_inherited();
 damage = 10;
+image_yscale = 10;
