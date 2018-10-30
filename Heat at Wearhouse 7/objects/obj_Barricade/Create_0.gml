@@ -3,4 +3,5 @@
 alarm[0] = 20 * room_speed;
 alarm[1] = 40 * room_speed;
 alarm[2] = 60 * room_speed;
-sprite = spr_Barricade
+sprite = spr_Barricade;
+mp_grid_add_instances(global.grid, obj_Barricade, 0);

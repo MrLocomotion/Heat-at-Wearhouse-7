@@ -1,1 +1,1 @@
-spawn_id = 1;
+pawn_id = 1;
