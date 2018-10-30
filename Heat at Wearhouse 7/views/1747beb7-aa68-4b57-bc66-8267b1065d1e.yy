@@ -19,7 +19,10 @@
         "d958f4d6-2703-445b-aea5-ba242290cd9e",
         "f4236c2c-c7b6-4ba8-878d-e440650bd1d7",
         "d60a511f-94a2-4629-87eb-25f7419f1bc6",
-        "230764cb-9587-4885-8a27-cf01ed2aaa20"
+        "230764cb-9587-4885-8a27-cf01ed2aaa20",
+        "06e3feaf-cc8c-43e9-918d-19036bf8fc5c",
+        "65b65ba0-9af3-4521-b1c9-1f8ca04d33d8",
+        "cf388c60-729b-4aab-ba8b-bd3dbd419e1d"
     ],
     "filterType": "GMSprite",
     "folderName": "Traps",
