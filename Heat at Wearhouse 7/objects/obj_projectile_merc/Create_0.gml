@@ -3,6 +3,5 @@
 
 // Inherit the parent event
 event_inherited();
-HP = 100;
-steps = 1;
-alarm[1] = 5 * room_speed;
+speed = 8;
+damage = 10;

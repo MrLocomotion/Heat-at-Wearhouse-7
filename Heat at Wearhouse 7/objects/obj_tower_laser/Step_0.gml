@@ -20,3 +20,6 @@ switch(image_angle)
 		break;
 }
 enemy = collision_line(x, y, CordX, CordY, obj_base_enemy, false, false);
+if(HP <= 0){
+	instance_destroy();
+}
