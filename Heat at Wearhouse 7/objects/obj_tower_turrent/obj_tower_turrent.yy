@@ -15,13 +15,21 @@
             "m_owner": "9fa12b03-b393-45cd-ba3b-a6ed1445c7cb"
         },
         {
+<<<<<<< HEAD
             "id": "519f1115-20c8-4abf-b51d-82b8ebdb8ca4",
+=======
+            "id": "121ac212-fd29-4133-a4f3-4ab6ca05b3f1",
+>>>>>>> 983471229c270ae021fb0fe3d76b0ceba2ad55d4
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
+<<<<<<< HEAD
             "eventtype": 3,
+=======
+            "eventtype": 2,
+>>>>>>> 983471229c270ae021fb0fe3d76b0ceba2ad55d4
             "m_owner": "9fa12b03-b393-45cd-ba3b-a6ed1445c7cb"
         }
     ],

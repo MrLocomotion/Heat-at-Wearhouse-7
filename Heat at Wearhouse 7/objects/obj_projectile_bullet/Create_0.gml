@@ -4,4 +4,5 @@
 event_inherited();
 speed = 8;
 damage = 10;
+audio_play_sound(sound_bullet, 3, 0);
 

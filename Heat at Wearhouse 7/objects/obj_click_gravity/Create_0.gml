@@ -4,3 +4,4 @@
 // Inherit the parent event
 event_inherited();
 drag = obj_drag_gravity;
+cost = 15;

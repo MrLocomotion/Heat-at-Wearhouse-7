@@ -4,6 +4,7 @@
     "mvc": "1.0",
     "name": "obj_Exit",
     "eventList": [
+<<<<<<< HEAD
         {
             "id": "85134723-24e2-4269-aedb-ed584941b08b",
             "modelName": "GMEvent",
@@ -14,6 +15,9 @@
             "eventtype": 6,
             "m_owner": "aed671d4-1874-4aef-b11b-c4118b542a1a"
         }
+=======
+        
+>>>>>>> 983471229c270ae021fb0fe3d76b0ceba2ad55d4
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
