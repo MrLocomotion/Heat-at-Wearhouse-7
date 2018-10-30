@@ -10,6 +10,8 @@ if(instance_exists(obj_base_enemy)){
 		firetimer = 30;
 		var temp = instance_create_layer(x, y, "Projectile", obj_projectile_bullet);
 		temp.direction = direction;
+		audio_play_sound(sound_laser, 2, 0);
+
     }
 }
 

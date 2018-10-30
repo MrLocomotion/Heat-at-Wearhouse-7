@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "00fd4a36-236d-4f48-8c38-fca83d48d3f9",
+            "Value": {
+                "id": "dcdc3909-6802-4380-8b60-c1060ed94a43",
+                "resourcePath": "sounds\\sound_barricade\\sound_barricade.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "00eea152-3ea8-4e54-82df-f1e531acc5bd",
             "Value": {
                 "id": "9613165e-ed30-4f18-a15e-c02774fb66a5",
@@ -567,6 +575,14 @@
             }
         },
         {
+            "Key": "638ab6b5-bfdd-46c6-95ff-a1ee6856cd29",
+            "Value": {
+                "id": "ed216157-a862-44e9-9cf9-0126d35dc5a9",
+                "resourcePath": "sounds\\sound_laser\\sound_laser.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "6201c5ff-65f1-4b4b-a3d0-9f2af8a07733",
             "Value": {
                 "id": "384f5133-3fcd-42e1-9e3b-a153ecf92f74",
@@ -863,6 +879,22 @@
             }
         },
         {
+            "Key": "9a8ef545-d9af-40e5-a358-e89e6790ac84",
+            "Value": {
+                "id": "f6bcaa94-13f5-44bf-b577-e63ee838f8e7",
+                "resourcePath": "objects\/controller\/controller.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "9b6590f4-378f-414e-845f-daaf256e2998",
+            "Value": {
+                "id": "a7770aae-0a4b-4350-ba46-c09576ff0f27",
+                "resourcePath": "objects\\obj_UI_points_jv\\obj_UI_points_jv.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "9d5f2f89-27ab-462a-997d-9d144bb5d979",
             "Value": {
                 "id": "b0c62721-fa4b-4d3a-af56-36e38812a004",
@@ -1066,7 +1098,7 @@
             "Key": "b740e739-2019-499c-9c1a-a633431777d2",
             "Value": {
                 "id": "d153ec78-bfec-47f2-8931-23e1faa0c44c",
-                "resourcePath": "objects\\obj_UIStart\\obj_UIStart.yy",
+                "resourcePath": "objects\\obj_UI_health_jv\\obj_UI_health_jv.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -1156,6 +1188,14 @@
                 "id": "fa04c4a2-1e6e-4b5f-82a9-063fd06a381d",
                 "resourcePath": "options\/windows\/options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "cdd033d2-727d-422f-9d4d-7fef03716abd",
+            "Value": {
+                "id": "0ef18454-9361-4f5f-8009-3672e9c4ed1e",
+                "resourcePath": "sounds\\sound_enemyImpact\\sound_enemyImpact.yy",
+                "resourceType": "GMSound"
             }
         },
         {
