@@ -3,6 +3,8 @@
 
 // Inherit the parent event
 event_inherited();
-steps = 3;
-range = 310;
-projectile = obj_projectile_laser;
+if(instance_exists(enemy)){
+	direction = point_direction(x, y, enemy.x, enemy.y);
+	image_angle = direction;
+}
+
