@@ -1263,6 +1263,14 @@
             }
         },
         {
+            "Key": "dd498e3c-0c88-477e-95ca-f4bcd03ba6b3",
+            "Value": {
+                "id": "4ca479b0-1f18-4c8e-9376-5b5d55769e4f",
+                "resourcePath": "objects\\obj_enemy_merc\\obj_enemy_merc.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "dd77934d-6197-4a1e-a6eb-19b6173e87fb",
             "Value": {
                 "id": "35a42606-b534-4cc7-a6bd-8effb683be78",
@@ -1300,6 +1308,14 @@
                 "id": "0c428d7a-f4df-4864-9f19-15e991e6395e",
                 "resourcePath": "tilesets\/CenterSet\/CenterSet.yy",
                 "resourceType": "GMTileSet"
+            }
+        },
+        {
+            "Key": "eda69a4b-499c-4418-8f3c-74efed3c5e4d",
+            "Value": {
+                "id": "c1cd7b29-0c98-441a-9ff1-93ceb76f4a6d",
+                "resourcePath": "objects\\obj_enemy_punk\\obj_enemy_punk.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1364,6 +1380,14 @@
                 "id": "2aff2a4f-821a-45e6-88e6-0788a59d9856",
                 "resourcePath": "tilesets\/room5\/room5.yy",
                 "resourceType": "GMTileSet"
+            }
+        },
+        {
+            "Key": "f951ae79-38d8-4f86-a9e2-9b965019c4c9",
+            "Value": {
+                "id": "16692efd-b064-4a2d-b80f-040bf80356fc",
+                "resourcePath": "objects\\obj_enemy_assassin\\obj_enemy_assassin.yy",
+                "resourceType": "GMObject"
             }
         },
         {
