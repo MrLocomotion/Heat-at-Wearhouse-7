@@ -1,5 +1,5 @@
 {
-    "id": "af29268a-baa6-4de0-8685-ee99ea440f57",
+    "id": "3aa1bbab-b02b-4c83-873b-1da909323356",
     "modelName": "GMSound",
     "mvc": "1.0",
     "name": "sound_bullet",
@@ -10,5 +10,5 @@
     "preload": false,
     "sampleRate": 44100,
     "type": 0,
-    "volume": 0.08
+    "volume": 0.04
 }

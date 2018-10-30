@@ -9,15 +9,9 @@
         "9b6590f4-378f-414e-845f-daaf256e2998",
         "665cc693-4490-4e2c-aa69-32c5ab4efa2f",
         "b740e739-2019-499c-9c1a-a633431777d2",
-<<<<<<< HEAD
         "2dd65565-a63a-4d27-b13a-d2a274a8fd02",
-        "6c77afe9-c5f5-4924-a16d-26e7b12d1482"
-=======
-        "9b6590f4-378f-414e-845f-daaf256e2998",
-        "665cc693-4490-4e2c-aa69-32c5ab4efa2f",
-        "b740e739-2019-499c-9c1a-a633431777d2",
-        "2dd65565-a63a-4d27-b13a-d2a274a8fd02"
->>>>>>> 983471229c270ae021fb0fe3d76b0ceba2ad55d4
+        "4a807559-ef43-4618-9a3b-1d070dac0056",
+        "3791691c-d244-46bb-bc4d-650e83363da0"
     ],
     "filterType": "GMObject",
     "folderName": "Controllers",

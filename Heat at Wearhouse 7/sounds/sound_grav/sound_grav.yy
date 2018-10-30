@@ -1,5 +1,5 @@
 {
-    "id": "37e87236-179f-4361-a465-b8a9bc5a6f8c",
+    "id": "0c59b529-0f43-4168-948b-aa0b3e178eae",
     "modelName": "GMSound",
     "mvc": "1.0",
     "name": "sound_grav",
@@ -10,5 +10,5 @@
     "preload": false,
     "sampleRate": 44100,
     "type": 0,
-    "volume": 0.03
+    "volume": 0.04
 }

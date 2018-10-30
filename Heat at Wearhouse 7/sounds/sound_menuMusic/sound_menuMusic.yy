@@ -1,5 +1,5 @@
 {
-    "id": "d2507c6e-3d2f-43d2-8999-52ce3d73d67d",
+    "id": "f9566c20-df9b-4747-869b-c4821920270c",
     "modelName": "GMSound",
     "mvc": "1.0",
     "name": "sound_menuMusic",
@@ -10,5 +10,5 @@
     "preload": false,
     "sampleRate": 44100,
     "type": 0,
-    "volume": 0.13
+    "volume": 0.09
 }
