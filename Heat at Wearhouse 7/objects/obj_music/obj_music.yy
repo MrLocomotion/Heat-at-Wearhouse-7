@@ -1,23 +1,23 @@
 {
-    "id": "eda69a4b-499c-4418-8f3c-74efed3c5e4d",
+    "id": "3791691c-d244-46bb-bc4d-650e83363da0",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_enemy_punk",
+    "name": "obj_music",
     "eventList": [
         {
-            "id": "56493b01-9593-4935-8065-2cab30e1e1ca",
+            "id": "fc47d77c-d254-4acb-adb7-6eedfdaaa592",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "eda69a4b-499c-4418-8f3c-74efed3c5e4d"
+            "m_owner": "3791691c-d244-46bb-bc4d-650e83363da0"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "9d5f2f89-27ab-462a-997d-9d144bb5d979",
+    "parentObjectId": "00000000-0000-0000-0000-000000000000",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
@@ -33,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "7bce9ac7-08a1-40b5-b4e5-c1e0c94ae25e",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }
