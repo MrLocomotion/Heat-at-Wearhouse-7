@@ -4,26 +4,7 @@
     "mvc": "1.0",
     "name": "obj_TEST_enemy",
     "eventList": [
-        {
-            "id": "d9962748-0eb0-43e5-970d-100b0770c586",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "03a516f4-3a75-4ee9-803f-8aeae0248fe5"
-        },
-        {
-            "id": "f1dba91c-909d-4267-87c3-c68fbb179bcd",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "03a516f4-3a75-4ee9-803f-8aeae0248fe5"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
