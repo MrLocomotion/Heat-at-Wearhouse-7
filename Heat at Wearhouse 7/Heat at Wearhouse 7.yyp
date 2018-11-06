@@ -3307,6 +3307,25 @@
             }
         },
         {
+            "Key": "d4563847-c246-45cb-bdf5-bb94c6c0c4fd",
+            "Value": {
+                "id": "dd928b45-ae37-4a1d-85ff-7ae719f83b8e",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "rooms\/room_wegner22\/room_wegner22.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "d60a511f-94a2-4629-87eb-25f7419f1bc6",
             "Value": {
                 "id": "4c4be3ee-5031-4eb4-804c-635de16450b2",
