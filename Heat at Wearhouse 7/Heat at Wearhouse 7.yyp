@@ -439,15 +439,6 @@
             }
         },
         {
-
-            "Key": "398ceb26-cec2-45ae-b127-ac42263b1f7f",
-            "Value": {
-                "id": "ff81c129-bd4c-4c2e-8403-e1bfbe3ba2c3",
-                "resourcePath": "sprites\\sprite_PunkDosANI\\sprite_PunkDosANI.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "39dcc173-5375-4335-b491-cd7629ceaee4",
             "Value": {
                 "id": "581e44b4-d424-4cb0-9ed3-536adbfe326f",
@@ -776,14 +767,6 @@
             }
         },
         {
-            "Key": "69768c51-c639-4e89-88b7-dbc7cec95557",
-            "Value": {
-                "id": "06d091bb-b240-4a95-b386-93d94e30608e",
-                "resourcePath": "sprites\\spr_PunkUno_BackANI\\spr_PunkUno_BackANI.yy",
-                "resourceType": "GMSprite"
-            }
-        },                
-        {
             "Key": "69f1da29-ac8a-43d0-9e3e-4e814dff39c1",
             "Value": {
                 "id": "57e2f558-5b1d-4feb-80b7-f82d9505786d",
@@ -968,14 +951,6 @@
             }
         },
         {
-            "Key": "84fb72fb-3c46-4c65-98a8-746f968acbe6",
-            "Value": {
-                "id": "7b980f5d-a3e7-4607-9fb0-d1d72c7406d2",
-                "resourcePath": "sprites\\sp_PunkDos_SideANI\\sp_PunkDos_SideANI.yy",
-                "resourceType": "GMSprite"
-            }
-         },
-         {
             "Key": "85aa4681-c702-473a-b2b9-3d9e94411c04",
             "Value": {
                 "id": "de92f00e-3ff0-4769-b7be-acf8e523a29d",
@@ -1144,14 +1119,6 @@
             }
         },
         {
-            "Key": "9e8416e0-ea97-4a32-a04b-9873a64b12e1",
-            "Value": {
-                "id": "f5eeef75-d65e-4888-9684-c6e22d45d1f2",
-                "resourcePath": "sprites\\sprite_MouseANI\\sprite_MouseANI.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "9f2b4d47-fd35-4f19-b853-a686dec75974",
             "Value": {
                 "id": "a7cfb498-f108-40b1-ac68-00e56c6cc55a",
@@ -1204,14 +1171,6 @@
             "Value": {
                 "id": "0e0d4b5d-07ed-4ede-8785-9aafcfd11e70",
                 "resourcePath": "sprites\\spr_bullet\\spr_bullet.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "a5fd5fd9-7cf3-4c70-b6d7-1971b928ca5f",
-            "Value": {
-                "id": "e7c77103-72a3-40b0-ba32-8366aa546b43",
-                "resourcePath": "sprites\\sp_PunkUno_FrontANI\\sp_PunkUno_FrontANI.yy",
                 "resourceType": "GMSprite"
             }
         },
