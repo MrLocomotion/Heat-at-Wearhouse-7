@@ -631,6 +631,14 @@
             }
         },
         {
+            "Key": "53d198dc-b6ae-4a82-8f45-d06de6a4fd09",
+            "Value": {
+                "id": "a7cc8a9f-43ff-45a5-8bdc-1befe13c53dc",
+                "resourcePath": "sounds\\sound_dong2\\sound_dong2.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "5462c975-092e-4e4f-87ca-12485bfce8c4",
             "Value": {
                 "id": "f981ce08-842d-4ba5-900f-6656b5baaf88",
@@ -700,6 +708,14 @@
                 "id": "384f5133-3fcd-42e1-9e3b-a153ecf92f74",
                 "resourcePath": "sprites\\spr_Start_Text\\spr_Start_Text.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6340a699-89be-4075-a167-f8449d1025c5",
+            "Value": {
+                "id": "2979e1f8-d682-474d-b252-e7d70cf87e88",
+                "resourcePath": "sounds\\sound_dong4\\sound_dong4.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -956,6 +972,14 @@
                 "id": "fe9f923d-a16b-42ec-b5e0-8c3d4661bc60",
                 "resourcePath": "objects\\obj_gravity_info2\\obj_gravity_info2.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "88d50015-ed65-48f7-9658-32dc5be53ef6",
+            "Value": {
+                "id": "f014e45f-9048-4bf1-b85f-361109a10c6a",
+                "resourcePath": "sounds\\sound_dong0\\sound_dong0.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -1263,6 +1287,14 @@
             }
         },
         {
+            "Key": "b55a8b35-2ad4-45a6-9028-f9aaa72de616",
+            "Value": {
+                "id": "537cbb21-140d-490f-84e5-1bd026c23ef0",
+                "resourcePath": "sounds\\sound_dong3\\sound_dong3.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "b57e5d2f-f488-46d9-b0d4-2b919a981484",
             "Value": {
                 "id": "0cfacadb-0d09-452b-b6d9-4147b5f3c1a4",
@@ -1452,6 +1484,14 @@
                 "id": "1ff0ccb9-2964-4191-93bb-2a221d42799a",
                 "resourcePath": "sprites\\spr_C4_Ex\\spr_C4_Ex.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d1922e50-8ef2-458b-8220-8de8549c2131",
+            "Value": {
+                "id": "c1e6cac2-df7e-4677-b8c5-9ca9fd74b3f1",
+                "resourcePath": "sounds\\sound_dong1\\sound_dong1.yy",
+                "resourceType": "GMSound"
             }
         },
         {
