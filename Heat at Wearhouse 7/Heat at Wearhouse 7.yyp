@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "0291bd67-f47d-436d-8d33-792ba892546b",
+            "Value": {
+                "id": "05c196db-7604-4be3-b4aa-47b80257a1cd",
+                "resourcePath": "sprites\\GameOverOutline\\GameOverOutline.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "03106669-ec0d-4fe5-b777-1d768513d338",
             "Value": {
                 "id": "f0ecdb30-bde0-44c5-9b7c-a054ba3fffe1",
@@ -532,6 +540,14 @@
                 "id": "84510f8e-c977-4d43-9c72-6a8386c27a99",
                 "resourcePath": "objects\\obj_trap_explosion\\obj_trap_explosion.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "44909ca8-2af7-43db-bfc1-227b2fe3c63a",
+            "Value": {
+                "id": "4ee55cee-4eba-48b7-b8ed-c4a458da7c0f",
+                "resourcePath": "sprites\\GameOverNoOutline\\GameOverNoOutline.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
