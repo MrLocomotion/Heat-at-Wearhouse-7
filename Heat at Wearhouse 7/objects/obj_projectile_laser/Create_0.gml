@@ -3,4 +3,6 @@
 
 // Inherit the parent event
 event_inherited();
-damage = 10;
+damage = 1;
+image_yscale = 10;
+audio_play_sound(sound_laser, 2, 0);

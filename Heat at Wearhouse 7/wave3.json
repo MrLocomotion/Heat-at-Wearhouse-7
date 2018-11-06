@@ -1,0 +1,5 @@
+{
+	"spawn0":[ "obj_TEST_enemy", "obj_TEST_enemy",  "obj_TEST_enemy"],
+	"spawn1":[ "obj_TEST_enemy", "obj_TEST_enemy", "obj_TEST_enemy", "obj_TEST_enemy", "obj_TEST_enemy"],
+	"spawn2":[ "obj_TEST_enemy","obj_punk", "obj_merc","obj_assassin"]
+}
