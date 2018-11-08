@@ -183,6 +183,14 @@
             }
         },
         {
+            "Key": "123ec926-f4d7-4a21-9295-70a1935cf1d4",
+            "Value": {
+                "id": "bc7343f4-04f8-45f6-83f4-93021199b6ef",
+                "resourcePath": "sprites\\TurrentBullet\\TurrentBullet.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "134cf60f-d047-4963-950c-8eea069ce8f2",
             "Value": {
                 "id": "6022b169-b2a4-41e5-9e23-1afe3f63dc36",
