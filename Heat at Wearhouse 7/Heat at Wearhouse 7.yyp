@@ -1423,6 +1423,14 @@
             }
         },
         {
+            "Key": "d648919a-1d0d-4087-a184-8f0837d7813e",
+            "Value": {
+                "id": "0e44a844-b9cc-41da-848c-189748696e57",
+                "resourcePath": "objects\\GameOver\\GameOver.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "d7ac043b-19d4-4deb-9808-36ee3aad28a7",
             "Value": {
                 "id": "0486548a-099c-4d1b-84f8-12a9dbdd3634",
