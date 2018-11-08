@@ -378,7 +378,7 @@
             "Key": "28a2b5ea-d1a0-4eee-b951-0e00f0fc3d92",
             "Value": {
                 "id": "7619797a-368a-469d-9aa8-6bd7633c67fa",
-                "resourcePath": "sprites\\spr_Barricade_ready1\\spr_Barricade_ready1.yy",
+                "resourcePath": "sprites\\spr_Barricade_ready\\spr_Barricade_ready.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -890,7 +890,7 @@
             "Key": "7023b53c-2e28-49fa-9bb6-ba855c46de7c",
             "Value": {
                 "id": "0867a6a6-649e-40e4-a0b9-af390f3b34d1",
-                "resourcePath": "sprites\\spr_Barricade_charging1\\spr_Barricade_charging1.yy",
+                "resourcePath": "sprites\\spr_Barricade_charging\\spr_Barricade_charging.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1175,14 +1175,6 @@
             }
         },
         {
-            "Key": "a29d0e29-623a-4423-aa0d-898a68d1ac7d",
-            "Value": {
-                "id": "bc9e984e-ccfb-4eac-a9b4-43626f830036",
-                "resourcePath": "sprites\\spr_Barricade_charging\\spr_Barricade_charging.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "a3775e73-554c-468a-ab0f-cea8301a2184",
             "Value": {
                 "id": "7ce3bd4b-829e-48fc-8fc4-1bb6670fe419",
@@ -1327,10 +1319,10 @@
             }
         },
         {
-            "Key": "b054d905-5c3b-443e-9fd3-d2ffed5c3bb0",
+            "Key": "b1f30d58-9440-4402-9aa0-1fb575333f80",
             "Value": {
-                "id": "302b42dc-f48f-4a3f-acb7-7dd1d7899e0b",
-                "resourcePath": "sprites\\spr_Barricade_ready\\spr_Barricade_ready.yy",
+                "id": "074c2cc7-30e1-46c8-a0aa-1a34d74e61eb",
+                "resourcePath": "sprites\\spr_Start_Text2\\spr_Start_Text2.yy",
                 "resourceType": "GMSprite"
             }
         },
