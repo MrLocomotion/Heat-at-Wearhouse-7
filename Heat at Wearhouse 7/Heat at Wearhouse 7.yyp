@@ -103,6 +103,14 @@
             }
         },
         {
+            "Key": "09491423-7ccb-4d95-848e-78d949af0874",
+            "Value": {
+                "id": "7211f17c-5681-4c3b-8cf5-325155ba07ff",
+                "resourcePath": "datafiles_yy\\wave1.json.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "0956845c-8814-424d-8e90-52f5af3b541b",
             "Value": {
                 "id": "a0e4d99e-ab93-448c-988a-040e93855f79",
@@ -379,14 +387,6 @@
             "Value": {
                 "id": "c357708e-41ac-4ed6-ae96-7e5442e69e91",
                 "resourcePath": "objects\\obj_spawner_master\\obj_spawner_master.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "2e84fe22-fdce-43d9-ab6d-c733d2765b69",
-            "Value": {
-                "id": "38a91de0-2f92-4605-bef1-6917da93ebb2",
-                "resourcePath": "objects\\obj_spawner\\obj_spawner.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -762,7 +762,7 @@
             "Key": "665cc693-4490-4e2c-aa69-32c5ab4efa2f",
             "Value": {
                 "id": "e57a4c4a-8811-4480-9e77-d9c4daaca35d",
-                "resourcePath": "objects\\obj_spawner_wegner\\obj_spawner_wegner.yy",
+                "resourcePath": "objects\\obj_spawner\\obj_spawner.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -1247,14 +1247,6 @@
             }
         },
         {
-            "Key": "a71115ad-ccb4-4c3d-8373-d4c56fddd8f5",
-            "Value": {
-                "id": "a599cc60-b3b5-451f-8522-5e25c3b62569",
-                "resourcePath": "datafiles_yy\\wave1.json.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
             "Key": "a7cadb40-f345-49db-9744-af5453c62b36",
             "Value": {
                 "id": "947719a3-ec58-4d09-acd1-395f97255e4d",
@@ -1655,9 +1647,9 @@
             }
         },
         {
-            "Key": "e77a7d2d-a1d1-46bf-9688-eb1a21e6c5f6",
+            "Key": "e76843a5-4f9f-4b5c-ae46-7d568ef49b69",
             "Value": {
-                "id": "2abd4bd5-4ee7-44a9-aa08-49ec7389a298",
+                "id": "72541e3d-ebb2-4d7a-80f2-a9cf04946b8e",
                 "resourcePath": "datafiles_yy\\wave2.json.yy",
                 "resourceType": "GMIncludedFile"
             }
@@ -1764,6 +1756,14 @@
                 "id": "2aff2a4f-821a-45e6-88e6-0788a59d9856",
                 "resourcePath": "tilesets\/room5\/room5.yy",
                 "resourceType": "GMTileSet"
+            }
+        },
+        {
+            "Key": "f7277097-3b11-4d4e-9a6f-69a07f072f1f",
+            "Value": {
+                "id": "0e005b19-91f3-495b-aa57-113d26c4f1e0",
+                "resourcePath": "datafiles_yy\\wave3.json.yy",
+                "resourceType": "GMIncludedFile"
             }
         },
         {

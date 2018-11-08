@@ -3,3 +3,4 @@
 spawn_id = 0; //give unique id in instance creation code
 steps = 5;
 alarm[0] = steps * room_speed;
+queue = ds_queue_create();
