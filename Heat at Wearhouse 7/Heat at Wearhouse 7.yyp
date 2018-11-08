@@ -951,6 +951,14 @@
             }
         },
         {
+            "Key": "74a888c2-60a7-405b-bead-378457498ec9",
+            "Value": {
+                "id": "056401cd-c64f-4792-9f6c-c30547f1c081",
+                "resourcePath": "fonts\\font_marske\\font_marske.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "793824ec-637b-4bd9-b2f0-aa245923e3ac",
             "Value": {
                 "id": "919037fa-3b1a-41e2-8f60-03dcb4651522",
