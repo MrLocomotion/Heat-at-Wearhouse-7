@@ -1231,6 +1231,14 @@
             }
         },
         {
+            "Key": "b536b2cc-f540-4b1c-a4e8-21104c0f3807",
+            "Value": {
+                "id": "7cbbf1c0-b284-4406-ac38-e2dd3f05e804",
+                "resourcePath": "sprites\\FloorTres\\FloorTres.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b57e5d2f-f488-46d9-b0d4-2b919a981484",
             "Value": {
                 "id": "0cfacadb-0d09-452b-b6d9-4147b5f3c1a4",
