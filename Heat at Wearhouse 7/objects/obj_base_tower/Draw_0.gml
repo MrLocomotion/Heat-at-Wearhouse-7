@@ -7,3 +7,4 @@ draw_line(x, y, enemy.x, enemy.y);
 draw_set_color(c_white);
 }
 draw_self();
+
