@@ -7,3 +7,4 @@ image_xscale = .5;
 image_yscale = .5;
 drag = obj_drag_turret;
 cost = 20;
+str = "Turrent: Tower that shoots rapidly Cost:20";
