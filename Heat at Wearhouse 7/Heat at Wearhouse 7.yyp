@@ -1079,6 +1079,14 @@
             }
         },
         {
+            "Key": "7199d561-5160-4975-b7e9-fad14b19e2db",
+            "Value": {
+                "id": "f0202c87-48f9-4212-9263-b37ee1439ae5",
+                "resourcePath": "datafiles_yy\\wave2.json.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "71c39f3a-edd5-4ed0-9285-4fc5f354108a",
             "Value": {
                 "id": "37d82a86-ad7a-48c7-9469-0f654e35cf5c",
@@ -1399,6 +1407,14 @@
             }
         },
         {
+            "Key": "a0810bad-f58e-422d-ae0d-d7b47b93ba87",
+            "Value": {
+                "id": "adbae613-928f-49a4-9404-1efb9db0afbd",
+                "resourcePath": "datafiles_yy\\wave1.json.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "a29d0e29-623a-4423-aa0d-898a68d1ac7d",
             "Value": {
                 "id": "bc9e984e-ccfb-4eac-a9b4-43626f830036",
@@ -1468,14 +1484,6 @@
                 "id": "8a2291d0-94f7-494f-af44-7ea590fbdd5c",
                 "resourcePath": "views\\a6c9269f-3736-4d97-acc8-d0444daef912.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "a71115ad-ccb4-4c3d-8373-d4c56fddd8f5",
-            "Value": {
-                "id": "a599cc60-b3b5-451f-8522-5e25c3b62569",
-                "resourcePath": "datafiles_yy\\wave1.json.yy",
-                "resourceType": "GMIncludedFile"
             }
         },
         {
@@ -1964,14 +1972,6 @@
                 "id": "f841d805-ddc1-488a-a792-a60916399f58",
                 "resourcePath": "rooms\\room_info_Enemies\\room_info_Enemies.yy",
                 "resourceType": "GMRoom"
-            }
-        },
-        {
-            "Key": "e77a7d2d-a1d1-46bf-9688-eb1a21e6c5f6",
-            "Value": {
-                "id": "2abd4bd5-4ee7-44a9-aa08-49ec7389a298",
-                "resourcePath": "datafiles_yy\\wave2.json.yy",
-                "resourceType": "GMIncludedFile"
             }
         },
         {

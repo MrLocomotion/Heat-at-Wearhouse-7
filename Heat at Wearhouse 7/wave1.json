@@ -1,5 +1,6 @@
 {
 	"spawn0":[ "obj_enemy_punk", "obj_enemy_punk",  "obj_enemy_punk"],
 	"spawn1":[ "obj_enemy_punk", "obj_enemy_punk", "obj_enemy_punk", "obj_enemy_punk", "obj_enemy_punk"],
-	"spawn2":[ "obj_enemy_punk", "obj_enemy_punk", "obj_enemy_punk", "obj_enemy_punk", "obj_enemy_punk"]
+	"spawn2":[ "obj_enemy_punk", "obj_enemy_punk", "obj_enemy_punk", "obj_enemy_punk", "obj_enemy_punk"],
+	"spawn3":[ "obj_enemy_punk"]
 }	

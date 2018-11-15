@@ -1,1 +1,1 @@
-spawn_id = 1;
+spawn_id = 3;
