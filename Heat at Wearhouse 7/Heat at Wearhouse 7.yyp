@@ -381,25 +381,6 @@
             }
         },
         {
-            "Key": "123053e3-8939-4045-85d7-cf9bd8ba9f8b",
-            "Value": {
-                "id": "5652b9ab-0e8c-4bc6-a2b7-b740b62a4072",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "rooms\/room_wegner21\/room_wegner21.yy",
-                "resourceType": "GMRoom"
-            }
-        },
-        {
             "Key": "134cf60f-d047-4963-950c-8eea069ce8f2",
             "Value": {
                 "id": "6022b169-b2a4-41e5-9e23-1afe3f63dc36",
@@ -1574,6 +1555,25 @@
                     "default"
                 ],
                 "resourcePath": "rooms\/room_title\/room_title.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "56c76f50-5369-4152-8c99-2db5427cefef",
+            "Value": {
+                "id": "a61f530a-ab11-4aff-9360-1396c78d980f",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "rooms\/room_wegner3\/room_wegner3.yy",
                 "resourceType": "GMRoom"
             }
         },
