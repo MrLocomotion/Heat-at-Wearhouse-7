@@ -215,6 +215,14 @@
             }
         },
         {
+            "Key": "15f14e36-9b9b-49a0-80f9-3495833c4d19",
+            "Value": {
+                "id": "c934dcf3-77d5-4e52-80c6-9806a870ac10",
+                "resourcePath": "sprites\\spr_c4_denied\\spr_c4_denied.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "165d1fec-7bea-45c8-acc4-a7b1297af7f9",
             "Value": {
                 "id": "c49795ad-ff05-41d5-8985-39c43bb16b41",
@@ -420,6 +428,14 @@
                 "id": "7dcf768c-983a-4b99-8a2d-dcb43928aa10",
                 "resourcePath": "objects\/obj_base_trap\/obj_base_trap.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "36a367a2-3f36-4102-aa2b-e31524794fc0",
+            "Value": {
+                "id": "e3073c9b-fc6e-40b7-978d-06e49beae561",
+                "resourcePath": "sprites\\spr_firewall_denied\\spr_firewall_denied.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -975,6 +991,14 @@
             }
         },
         {
+            "Key": "7b2c7274-60e0-47ed-8e80-34e724a857bf",
+            "Value": {
+                "id": "12ffa9b7-478a-4890-a875-2c39c340d998",
+                "resourcePath": "sprites\\spr_Sniper_denied\\spr_Sniper_denied.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7bce9ac7-08a1-40b5-b4e5-c1e0c94ae25e",
             "Value": {
                 "id": "fa9b4348-79cd-4b1f-ab2a-658c5e7553c2",
@@ -1447,6 +1471,14 @@
             }
         },
         {
+            "Key": "c81dbd6e-9f0b-438d-92fe-38a581131eeb",
+            "Value": {
+                "id": "123913f9-d5eb-4f7b-95a4-4a5fbca4a9a6",
+                "resourcePath": "sprites\\spr_gun_denied\\spr_gun_denied.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c96fd797-4781-4be3-b129-616ce7b4efb7",
             "Value": {
                 "id": "344c6ba4-c3b5-4dc5-af56-744e599cdc02",
@@ -1812,6 +1844,14 @@
                 "id": "6dbdb649-6038-4fb0-a2ca-fd52225c28ea",
                 "resourcePath": "objects\\obj_drag_turret\\obj_drag_turret.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "fd81f093-1357-4266-aa49-8bfd837a1b9b",
+            "Value": {
+                "id": "1c882ddb-1188-46f3-a288-027938e386aa",
+                "resourcePath": "sprites\\spr_gravity_denied\\spr_gravity_denied.yy",
+                "resourceType": "GMSprite"
             }
         }
     ],
