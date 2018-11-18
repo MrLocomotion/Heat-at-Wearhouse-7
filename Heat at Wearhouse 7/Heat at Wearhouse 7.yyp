@@ -242,7 +242,7 @@
             "Key": "19c92d09-b416-4b08-b020-da1207759f57",
             "Value": {
                 "id": "70de8032-ca66-459f-ae4a-cdc006fc34e8",
-                "resourcePath": "objects\\obj_base_click\\obj_base_click.yy",
+                "resourcePath": "objects\\obj_base_click_tower\\obj_base_click_tower.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -732,6 +732,14 @@
                 "id": "384f5133-3fcd-42e1-9e3b-a153ecf92f74",
                 "resourcePath": "sprites\\spr_Start_Text\\spr_Start_Text.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "621a46ec-688d-455e-b51b-c55d03ddc985",
+            "Value": {
+                "id": "d1a72e04-8ab7-45d9-855e-5856bdf64fc6",
+                "resourcePath": "objects\\obj_base_click_trap\\obj_base_click_trap.yy",
+                "resourceType": "GMObject"
             }
         },
         {
