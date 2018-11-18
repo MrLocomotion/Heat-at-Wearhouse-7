@@ -1,4 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
-tower = obj_tower_flamethrower;
-image_angle = 90;
+image_angle -= 90;
+if(image_angle < 0)
+	image_angle = 270;
