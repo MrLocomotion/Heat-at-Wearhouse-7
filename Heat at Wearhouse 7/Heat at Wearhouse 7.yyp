@@ -1727,6 +1727,14 @@
             }
         },
         {
+            "Key": "ec835eb7-9d64-4a85-b3f7-f90dd29098c3",
+            "Value": {
+                "id": "9336ed87-4b56-4fc0-b6b0-68d8af4df171",
+                "resourcePath": "objects\\obj_krash\\obj_krash.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "eda69a4b-499c-4418-8f3c-74efed3c5e4d",
             "Value": {
                 "id": "c1cd7b29-0c98-441a-9ff1-93ceb76f4a6d",
