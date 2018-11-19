@@ -3,6 +3,9 @@
 
 // Inherit the parent event
 event_inherited();
-image_xscale = .5;
-image_yscale = .5;
-
+scale = .5
+image_xscale = scale;
+image_yscale = scale;
+up = spr_PunkUno_BackANI;
+down = spr_PunkUno_FrontANI;
+right = spr_PunkUnoANI;
