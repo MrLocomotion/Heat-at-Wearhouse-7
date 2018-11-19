@@ -8,6 +8,6 @@ max_HP = 100;
 HP = max_HP;
 steps = 1;
 alarm[1] = steps * room_speed;
-up = spr_merc_down;
+up = spr_merc_up;
 down = spr_merc_down;
 right = spr_merc_right;
