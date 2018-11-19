@@ -8,7 +8,11 @@
         "865d61ef-4ec8-40d4-b747-895cf289c0cb",
         "1bd5996f-9c5a-43a5-a7d9-5465b3a14982",
         "6201c5ff-65f1-4b4b-a3d0-9f2af8a07733",
-        "69f1da29-ac8a-43d0-9e3e-4e814dff39c1"
+        "cbf108a3-32a3-4205-b034-4408e2ff9daa",
+        "69f1da29-ac8a-43d0-9e3e-4e814dff39c1",
+        "4bda7856-c38e-4b8b-aa83-328347884e48",
+        "41dcab2b-d68c-4c80-8d46-c3b4ff6556f4",
+        "f35205ae-e8a5-45e3-b2a0-28af27e52e45"
     ],
     "filterType": "GMSprite",
     "folderName": "TitleScreen",
