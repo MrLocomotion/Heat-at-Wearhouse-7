@@ -2,7 +2,7 @@
     "id": "a5fd5fd9-7cf3-4c70-b6d7-1971b928ca5f",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "sp_PunkUno_FrontANI",
+    "name": "spr_PunkUno_FrontANI",
     "For3D": false,
     "HTile": false,
     "VTile": false,
