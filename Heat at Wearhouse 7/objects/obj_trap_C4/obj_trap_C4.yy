@@ -4,16 +4,7 @@
     "mvc": "1.0",
     "name": "obj_trap_C4",
     "eventList": [
-        {
-            "id": "060e0a46-2144-441e-ba52-d4d341f0071a",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "9d5f2f89-27ab-462a-997d-9d144bb5d979",
-            "enumb": 0,
-            "eventtype": 4,
-            "m_owner": "532f9715-934d-4b3a-81ae-97da38edc334"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

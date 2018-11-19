@@ -5,16 +5,6 @@
     "name": "obj_trap_gravity",
     "eventList": [
         {
-            "id": "2cc7908c-37c2-46e5-b6a5-649767b81400",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "9d5f2f89-27ab-462a-997d-9d144bb5d979",
-            "enumb": 0,
-            "eventtype": 4,
-            "m_owner": "220418ba-8546-4450-86db-16726b7cb0a1"
-        },
-        {
             "id": "3cb65914-976e-414a-985e-0f3c9ba03a94",
             "modelName": "GMEvent",
             "mvc": "1.0",

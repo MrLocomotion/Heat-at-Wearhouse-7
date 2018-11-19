@@ -3,6 +3,6 @@
 
 // Inherit the parent event
 event_inherited();
+cooldown = 10;
 drag = obj_drag_C4;
-cost = 25;
-str = "C4: High-grade military mine that explodes once touched Cost:25";
+str = "C4: High-grade military mine that explodes once touched Cooldown:10";

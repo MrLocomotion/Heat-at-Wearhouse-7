@@ -3,6 +3,6 @@
 
 // Inherit the parent event
 event_inherited();
+cooldown = 10;
 drag = obj_drag_gravity;
-cost = 15;
-str = "Gravity Trap: a powerful trap that sucks enmies inside and keep them in place Cost:15";
+str = "Gravity Trap: a powerful trap that sucks enmies inside and keep them in place Cooldown:10";
