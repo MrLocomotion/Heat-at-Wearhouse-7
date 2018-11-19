@@ -431,6 +431,14 @@
             }
         },
         {
+            "Key": "2636032d-4e14-4439-a80f-3b0a9d7c0d9a",
+            "Value": {
+                "id": "25d0fcb1-d34e-49da-9116-0c2161a7c755",
+                "resourcePath": "sprites\\spr_merc_up\\spr_merc_up.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "28a2b5ea-d1a0-4eee-b951-0e00f0fc3d92",
             "Value": {
                 "id": "7619797a-368a-469d-9aa8-6bd7633c67fa",
@@ -676,6 +684,14 @@
                 "id": "955a7120-bf70-4030-9be3-2b125426c63b",
                 "resourcePath": "objects\\obj_info_traps\\obj_info_traps.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "444f0174-0c7d-41b0-9edc-b8f2b91ddc0c",
+            "Value": {
+                "id": "17ab6eff-e554-4e55-89d0-562323952c4c",
+                "resourcePath": "sprites\\spr_assassain_up\\spr_assassain_up.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -956,6 +972,14 @@
                 "id": "4daea0cc-22ad-425f-831e-3826f319a46a",
                 "resourcePath": "objects\\obj_spawner_wegner\\obj_spawner_wegner.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "66ba3a8a-9da0-46d9-a25e-b08690474ce9",
+            "Value": {
+                "id": "48c7da9b-28a5-46a6-813f-eeb63048830c",
+                "resourcePath": "sprites\\spr_assassain_down\\spr_assassain_down.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
