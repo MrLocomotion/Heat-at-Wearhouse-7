@@ -1,7 +1,7 @@
 {
 	"spawn0":[ "obj_enemy_punk", "obj_enemy_merc",  "obj_enemy_punk", "obj_enemy_merc", "obj_enemy_punk", "obj_enemy_punk", "obj_enemy_merc", "obj_enemy_punk", "obj_enemy_punk"],
 	"spawn2":[ "obj_enemy_merc", "obj_enemy_punk", "obj_enemy_merc", "obj_enemy_merc", "obj_enemy_punk", "obj_enemy_merc", "obj_enemy_punk"],
-	"spawn3":[ "obj_enemy_merc", "obj_enemy_punk", "obj_enemy_merc", "obj_enemy_merc", "obj_enemy_merc", "obj_enemy_punk", "obj_enemy_merc", "obj_enemy_punk","obj_enemy_punk" ]
+	"spawn3":[ "obj_enemy_merc", "obj_enemy_punk", "obj_enemy_merc", "obj_enemy_merc", "obj_enemy_merc", "obj_enemy_punk", "obj_enemy_merc", "obj_enemy_punk","obj_enemy_punk" ],
 	"spawn4":[ "obj_enemy_punk", "obj_enemy_punk",  "obj_enemy_punk", "obj_enemy_punk",  "obj_enemy_punk", "obj_enemy_merc", "obj_enemy_punk","obj_enemy_punk","obj_enemy_punk","obj_enemy_punk","obj_enemy_punk","obj_enemy_punk"],
 	"spawn5":[ ],
 	"spawn6":[ ],
