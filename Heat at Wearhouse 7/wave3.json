@@ -1,10 +1,10 @@
 {
-	"spawn0":[ "obj_enemy_punk", "obj_enemy_merc",  "obj_enemy_punk", "obj_enemy_merc", "obj_enemy_punk", "obj_enemy_punk", "obj_enemy_merc", "obj_enemy_punk", "obj_enemy_punk"],
-	"spawn2":[ "obj_enemy_merc", "obj_enemy_punk", "obj_enemy_merc", "obj_enemy_merc", "obj_enemy_punk", "obj_enemy_merc", "obj_enemy_punk"],
-	"spawn3":[ "obj_enemy_merc", "obj_enemy_punk", "obj_enemy_merc", "obj_enemy_merc", "obj_enemy_merc", "obj_enemy_punk", "obj_enemy_merc", "obj_enemy_punk","obj_enemy_punk" ]
-	"spawn4":[ "obj_enemy_punk", "obj_enemy_punk",  "obj_enemy_punk", "obj_enemy_punk",  "obj_enemy_punk", "obj_enemy_merc", "obj_enemy_punk","obj_enemy_punk","obj_enemy_punk","obj_enemy_punk","obj_enemy_punk","obj_enemy_punk"],
-	"spawn5":[ "obj_enemy_punk"],
-	"spawn6":[ "obj_enemy_punk"],
+	"spawn0":[ "obj_enemy_punk", "obj_enemy_merc",  "obj_enemy_punk", "obj_enemy_merc", "obj_enemy_punk", "obj_enemy_punk", "obj_enemy_merc", "obj_enemy_punk", "obj_enemy_punk", "obj_enemy_punk", "obj_enemy_punk",  "obj_enemy_punk", "obj_enemy_punk",  "obj_enemy_punk", "obj_enemy_merc", "obj_enemy_punk","obj_enemy_punk","obj_enemy_punk","obj_enemy_punk","obj_enemy_punk","obj_enemy_punk"],
+	"spawn2":[ "obj_enemy_merc", "obj_enemy_punk", "obj_enemy_merc", "obj_enemy_merc", "obj_enemy_punk", "obj_enemy_merc", "obj_enemy_punk", "obj_enemy_punk", "obj_enemy_punk",  "obj_enemy_punk", "obj_enemy_punk",  "obj_enemy_punk", "obj_enemy_merc", "obj_enemy_punk","obj_enemy_punk","obj_enemy_punk","obj_enemy_punk","obj_enemy_punk","obj_enemy_punk"],
+	"spawn3":[ "obj_enemy_merc", "obj_enemy_punk", "obj_enemy_merc", "obj_enemy_merc", "obj_enemy_merc", "obj_enemy_punk", "obj_enemy_merc", "obj_enemy_punk","obj_enemy_punk", "obj_enemy_punk", "obj_enemy_punk",  "obj_enemy_punk", "obj_enemy_punk",  "obj_enemy_punk", "obj_enemy_merc", "obj_enemy_punk","obj_enemy_punk","obj_enemy_punk","obj_enemy_punk","obj_enemy_punk","obj_enemy_punk" ]
+	"spawn4":[ "obj_enemy_punk", "obj_enemy_punk",  "obj_enemy_punk", "obj_enemy_punk" , "obj_enemy_merc",  "obj_enemy_punk", "obj_enemy_merc", "obj_enemy_punk","obj_enemy_punk","obj_enemy_punk","obj_enemy_punk","obj_enemy_punk","obj_enemy_punk",  "obj_enemy_merc"],
+	"spawn5":[ "obj_enemy_punk", "obj_enemy_punk",  "obj_enemy_punk", "obj_enemy_punk" , "obj_enemy_merc",  "obj_enemy_punk", "obj_enemy_merc", "obj_enemy_punk","obj_enemy_punk" , "obj_enemy_merc","obj_enemy_punk","obj_enemy_punk","obj_enemy_punk","obj_enemy_punk"],
+	"spawn6":[ "obj_enemy_punk", "obj_enemy_punk",  "obj_enemy_punk", "obj_enemy_punk" , "obj_enemy_merc",  "obj_enemy_punk", "obj_enemy_merc", "obj_enemy_punk","obj_enemy_punk" , "obj_enemy_merc","obj_enemy_punk","obj_enemy_punk","obj_enemy_punk","obj_enemy_punk"],
 	"spawn7":[ ],
 	"spawn8":[ ],
 	"spawn9":[ ]
