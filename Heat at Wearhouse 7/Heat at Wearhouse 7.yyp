@@ -519,6 +519,14 @@
             }
         },
         {
+            "Key": "374aa0dc-b0b2-410b-9454-1e20d52bca12",
+            "Value": {
+                "id": "9f2c088c-4c87-436e-b30e-a8b65f1f02c9",
+                "resourcePath": "views\\011ccce9-d6b0-40d6-87fa-9d4b6b0f6d02-room.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "3791691c-d244-46bb-bc4d-650e83363da0",
             "Value": {
                 "id": "68604ebb-e3b3-4412-9712-b665c2d25880",
@@ -839,6 +847,14 @@
             }
         },
         {
+            "Key": "56c76f50-5369-4152-8c99-2db5427cefef",
+            "Value": {
+                "id": "3f980384-f4ba-443d-b841-4d9d939c53b6",
+                "resourcePath": "rooms\\room_wegner3\\room_wegner3.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "56de0bf9-c373-43d1-876e-d853621a4b76",
             "Value": {
                 "id": "f3aba110-9e46-4699-9062-1cbfaaad6e81",
@@ -943,11 +959,27 @@
             }
         },
         {
+            "Key": "63913347-3013-4bb7-827d-8c2ce7c08574",
+            "Value": {
+                "id": "09e51b6e-2b77-46a7-90bd-42ff3cd03d3c",
+                "resourcePath": "rooms\\room_wegner21\\room_wegner21.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "646edfa0-c775-4c18-856f-c71b528fd069",
             "Value": {
                 "id": "bbbc145c-253e-4328-b1a1-b15566d1cf01",
                 "resourcePath": "views\\5462c975-092e-4e4f-87ca-12485bfce8c4-room.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "64ab329d-a31f-45aa-a80d-8def8fa06ae6",
+            "Value": {
+                "id": "b803d8f2-edf8-4a4b-9d48-ddf97814816e",
+                "resourcePath": "rooms\\room_wegner2\\room_wegner2.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -1635,6 +1667,14 @@
             "Value": {
                 "id": "978cfca8-7e4b-4b17-bb88-c249aed4056f",
                 "resourcePath": "objects\\obj_Text_sniper\\obj_Text_sniper.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b2be31f2-12b6-43d0-99eb-77ee87c4b6d1",
+            "Value": {
+                "id": "b1d9782e-78b5-4cec-9088-761df56b75b2",
+                "resourcePath": "objects\\obj_buttonText\\obj_buttonText.yy",
                 "resourceType": "GMObject"
             }
         },
