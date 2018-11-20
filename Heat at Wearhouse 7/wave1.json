@@ -1,5 +1,11 @@
 {
-	"spawn0":[ "obj_enemy_punk", "obj_enemy_punk",  "obj_enemy_punk"],
-	"spawn1":[ "obj_enemy_punk", "obj_enemy_punk", "obj_enemy_punk", "obj_enemy_punk", "obj_enemy_punk"],
-	"spawn2":[ "obj_enemy_punk", "obj_enemy_punk", "obj_enemy_punk", "obj_enemy_punk", "obj_enemy_punk"]
+	"spawn0":[ "obj_enemy_punk", "obj_enemy_punk",  "obj_enemy_punk", "obj_enemy_punk",  "obj_enemy_punk",  "obj_enemy_punk","obj_enemy_punk","obj_enemy_punk","obj_enemy_punk","obj_enemy_punk","obj_enemy_punk"],
+	"spawn2":[ ],
+	"spawn3":[ ],
+	"spawn4":[ ],
+	"spawn5":[ ],
+	"spawn6":[ ],
+	"spawn7":[ ],
+	"spawn8":[ ],
+	"spawn9":[ ]
 }	
