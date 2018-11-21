@@ -7,3 +7,7 @@ wave = 1;
 scr_SpawnControl(wave);
 wave++;
 alarmSet = false;
+if (wave == 6 )
+   {
+   room_goto(room_congrats);
+   }
